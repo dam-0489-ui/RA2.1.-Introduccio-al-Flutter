@@ -1,6 +1,6 @@
 # 3. Cicle de vida
 
-Els apunts originals expliquen el cicle de vida d'una Activity amb callbacks com `onCreate`, `onStart`, `onResume`, `onPause`, `onStop` i `onDestroy`.
+En l'Android natiu el cicle de vida d'una Activity té callbacks com `onCreate`, `onStart`, `onResume`, `onPause`, `onStop` i `onDestroy`.
 
 Flutter té un model diferent.
 
