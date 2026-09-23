@@ -114,15 +114,4 @@ class _FormulariPageState extends State<FormulariPage> {
 }
 ```
 
-## Exercicis
 
-1. Crea dues pantalles i navega entre elles.
-2. Retorna un valor des de la segona pantalla.
-3. Crea un formulari amb nom i correu electrònic.
-4. Afegeix un `Checkbox`.
-5. Afegeix un `DropdownButton`.
-6. Crea un widget reutilitzable.
-7. Afegeix una imatge com a asset.
-8. Defineix un tema global.
-9. Adapta la interfície a pantalles estretes i amples.
-10. Prepara els textos per a català, castellà i anglès.
