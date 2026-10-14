@@ -1,4 +1,4 @@
-# RA2 — Desenvolupament d'interfícies amb Flutter
+# RA2.1 — Desenvolupament d'interfícies amb Flutter
 
 Apunts i material introductori del RA2 per al desenvolupament d'aplicacions amb **Dart i Flutter**.
 
