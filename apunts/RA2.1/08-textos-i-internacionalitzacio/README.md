@@ -324,7 +324,7 @@ AppLocalizations
 
 Aquesta classe permetrà accedir als textos traduïts des del codi Dart.
 
-Important: cal executar la generació automàtica de classes cada vegada que afegim nous idiomes.
+IMPORTANT: cal executar la generació automàtica de classes cada vegada que afegim nous idiomes.
 
 ---
 
